@@ -2,3 +2,6 @@
 .idea/
 __pycache__/
 *.pyc
+venv
+venv2
+.venv2
